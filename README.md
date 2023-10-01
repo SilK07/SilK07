@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilK07
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS and Javascript from coursera.
+- 🌱 I’m currently learning frontened development from scrimba.
 - Reach me on discord SilK#0609
 
 <!---
