@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning computer science engineering .<br>🔭 I’m currently working on trackify and stat.<br>⚡ Fun fact 98.3% people can't pronounce my name.<br>✍️ In my free time, I brainstorm on ideas to get rich quick.<br>💬 Mail me at soumyasmitsingh@gmail.com to discuss ideas.
+🌱 I’m currently learning computer science engineering .<br>🔭 I’m currently working on working with live data using free paper trading api.<br>⚡ Fun fact 98.3% people can't pronounce my name.<br>✍️ In my free time, I brainstorm on ideas to get rich quick.<br>💬 Mail me at soumyasmitsingh@gmail.com to discuss ideas.
 
 
 ## 🌐 Socials:
